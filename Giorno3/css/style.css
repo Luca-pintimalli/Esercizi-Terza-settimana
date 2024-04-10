@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin-top: 30%;
+}
+form{
+}
+
+body h1{
+
+}
+
+form input{
+    width: 30em;
+    height: 3em;
+
+}
+
+form button{
+    width: 5em;
+    height: 3em;
+}
